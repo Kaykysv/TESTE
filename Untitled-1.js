@@ -4,7 +4,8 @@
     <titule> script teste 1 </titule>
     <H1> PARTICANDO REPERTORIO </H1>
 
-    <img src="https://th.bing.com/th/id/OIP.iL3ldza_k3xBxT7CCgS_XAHaFj?pid=ImgDet&rs=">    </img>
+    <img src="https://th.bing.com/th/id/OIP.iL3ldza_k3xBxT7CCgS_XAHaFj?pid=ImgDet&rs="></img>
+    
     primeira  numero:<input id="numero1" type="number"> <br />
     segundo numero:<input id="numero2" type="numero"> <br />
     <button onclik="inverte()">Inverter</button>
