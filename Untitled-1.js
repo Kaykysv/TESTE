@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <titule>cursojava script teste 1 </titule>
+    <titule> script teste 1 </titule>
+    <H1> PARTICANDO REPERTORIO </H1>
     primeira  numero:<input id="numero1" type="number"> <br />
     segundo numero:<input id="numero2" type="numero"> <br />
     <button onclik="inverte()">Inverter</button>
